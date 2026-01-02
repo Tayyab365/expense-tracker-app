@@ -98,6 +98,9 @@ const AddExpense = ({
             className="bg-[#383838] rounded-md px-3 p-2 outline-none text-sm min-h-[40px] max-h-[120px]"
           />
         </div>
+        <p className="text-xs text-gray-400 text-right">
+          {newExpense.description.length}/100
+        </p>
         <div className="grid grid-cols-1 sm:grid-cols-[100px_1fr] items-center gap-2">
           <label className="text-sm">Date</label>
           <input

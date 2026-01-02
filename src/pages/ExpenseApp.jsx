@@ -95,7 +95,7 @@ const ExpenseApp = () => {
   }, [expenses]);
 
   return (
-    <div className="bg-[#0b0b0b] rounded-xl p-10 relative">
+    <div className="bg-[#0b0b0b] rounded-xl p-5 sm:p-10 relative">
       <Navbar
         isModelOpen={isModelOpen}
         setIsModelOpen={setIsModelOpen}
