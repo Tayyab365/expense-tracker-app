@@ -23,7 +23,7 @@ in the browser using localStorage.
 ## Installation
 
 1. Clone the repository
-   git clone https://github.com/Tayyab365/expense-tracker-app
+   git clone https://github.com/Tayyab365/expense-tracker-app.git
 
 2. Install dependencies
    npm install
