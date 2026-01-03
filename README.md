@@ -33,7 +33,7 @@ in the browser using localStorage.
 
 ## Live Demo
 
-https://expense-tracker-portfolio-1.vercel.app/
+https://tayyab-expense-tracker.vercel.app/
 
 ## Screenshots
 
